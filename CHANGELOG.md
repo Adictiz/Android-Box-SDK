@@ -1,3 +1,7 @@
+##### 1.0.1 2016/04/13
+
+-- handles upload picture (webview)
+
 ##### 1.0.1 2015/11/10
 
 -- Fix issue : upload Picture

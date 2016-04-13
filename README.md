@@ -1,6 +1,6 @@
 # Box Android SDK
 
-Last stable version is [1.0.1][archive]
+Last stable version is [1.0.2][archive]
 
 Last stable "Sample Project" is [1.0.0][sampleProject]
 
@@ -27,8 +27,8 @@ Integration instruction are available on the [wiki][wiki].
 Please refer to the [changelog][changelog] for detailed informations.
 
 
-[archive]: https://github.com/Adictiz/Android-Box-SDK/raw/master/Box-Android-SDK-1.0.1.zip?raw=true  "Box Android SDK archive"
+[archive]: https://github.com/Adictiz/Android-Box-SDK/raw/master/Box-Android-SDK-1.0.2.zip?raw=true  "Box Android SDK archive"
 [wiki]: https://github.com/Adictiz/Android-Box-SDK/wiki "Box Android SDK Wiki home page"
-[reference]: https://github.com/Adictiz/Android-Box-SDK/raw/master/Box-Android-SDK-1.0.1-reference.zip?raw=true "Box Android SDK Classes Reference archive"
+[reference]: https://github.com/Adictiz/Android-Box-SDK/raw/master/Box-Android-SDK-1.0.2-reference.zip?raw=true "Box Android SDK Classes Reference archive"
 [sampleProject]: https://github.com/Adictiz/Android-Box-SDK/blob/master/Box-SampleProject-1.0.1.zip?raw=true "Box Android SDK sample project"
 [changelog]: https://github.com/Adictiz/Android-Box-SDK/blob/master/CHANGELOG.md "Box Android SDK changelog"
